@@ -7,8 +7,8 @@ function Header() {
     <div>
       <h1 id={Style.Titre}>Exemple de Quiz</h1>
       <div className={Style.Link}>
-        <Link to="/test/quiz/history">Histoire</Link>
-        <Link to="/test/quiz/granguil">Ecrits de Granguil</Link>
+        <Link to="/TestCardGame/quiz/history">Histoire</Link>
+        <Link to="/TestCardGame/quiz/granguil">Ecrits de Granguil</Link>
       </div>
     </div>
   );
