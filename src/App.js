@@ -15,7 +15,7 @@ function App() {
     <BrowserRouter>
       <Header />
       <Switch>
-        <Route path="/test/quiz/:subject">
+        <Route path="/TestCardGame/quiz/:subject">
           <Quiz />
         </Route>
       </Switch>
