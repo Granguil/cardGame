@@ -9,7 +9,7 @@ export const useQuiz = (
   setLoad
 ) => {
   fetchData(
-    "/Content/Exemple/" + nom + ".json",
+    "/Contents/Exemple/" + nom + ".json",
     methodType.Get,
     null,
     {
