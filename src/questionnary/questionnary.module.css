@@ -1,0 +1,21 @@
+@media (min-width: 500px) {
+  .body {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 500px) {
+  .body {
+    display: block;
+  }
+}
+
+.InCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+}

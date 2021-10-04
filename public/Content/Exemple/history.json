@@ -1,0 +1,25 @@
+    {"stat":{
+        "subject":"Histoire",
+        "questions":3
+    },
+    "question":[{
+        "question":"En quelle année a eu lieu la bataille de Marignan ?",
+        "nombreProposition":2,
+        "responses":[1515,1616],
+        "response":1,
+        "points":10
+    },{
+        "question":"En quelle année a eu lieu la bataille de Stalingrad ?",
+        "nombreProposition":3,
+        "responses":[1916,1942,1978],
+        "response":2,
+        "points":20
+    },{
+        "question":"En quelle année a eu lieu la bataille de Sadowa ?",
+        "nombreProposition":5,
+        "responses":[1566,1666,1766,1866,1966],
+        "response":4,
+        "points":40
+    }
+]    
+    }

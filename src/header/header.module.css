@@ -1,0 +1,9 @@
+#Titre {
+  text-align: center;
+  text-decoration: double;
+}
+
+.Link {
+  display: flex;
+  justify-content: space-evenly;
+}
